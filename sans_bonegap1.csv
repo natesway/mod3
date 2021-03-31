@@ -1,0 +1,12 @@
+0,CombatZoneResize,133,251,508,391,TLResume
+0,HeartTeleport,320,376,,,
+0,HeartMode,1,,,,
+0,TLPause,,,,,
+0,SansText,I Dont Want To                    Fight...,,,,,,,,
+0,SansText,You A Friend...,,,,,,,,
+0,SansText,Please.....,,,,,,,,
+0,SansText,Im Asking...,,,,,,,,
+0,SansText,Spare Me......,,,,,,,,
+0,SansText,I-i Cant Hurt You....,,,,,,,,
+0,SansText,........,,,,,,,,
+0.3,EndAttack,,,,,

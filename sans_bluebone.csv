@@ -1,0 +1,12 @@
+0,CombatZoneResize,133,251,508,391,TLResume
+0,HeartTeleport,320,376,,,
+0,HeartMode,1,,,,
+0,TLPause,,,,,
+0,SansText,I-i...,,,,,,,,
+0,SansText,Am...,,,,,,,,
+0,SansText,Asking You To.....,,,,,,,,
+0,SansText,Stop Fighting...,,,,,,,,
+0,Sound,mus_zz_megalovania,1,,,,,,
+0,SansText,And This Is                The Demo!......,,,,,,,,
+0,SansText,Now This Will Happen....,,,,,,,,
+0.3,EndAttack,,,,,
